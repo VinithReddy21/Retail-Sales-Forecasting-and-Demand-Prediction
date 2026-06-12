@@ -131,3 +131,18 @@ Increase inventory allocation for high-performing product families.
 Optimize promotional campaigns during peak demand periods.
 Use demand forecasting to reduce inventory holding costs.
 Improve stock planning and replenishment strategies.
+
+
+## Dataset
+
+The original dataset is not included in this repository due to GitHub file size limits.
+link to the dataset , download train.csv
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting/data?utm_source=chatgpt.com&select=train.csv
+Place the dataset at:
+dataset/train.csv
+
+## Model
+
+The trained model file is not included.
+Run the notebook to retrain and generate:
+models/sales_forecast_model.pkl
